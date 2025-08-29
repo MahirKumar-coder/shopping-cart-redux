@@ -3,7 +3,6 @@ import {
     MDBContainer,
     MDBNavbar,
     MDBNavbarBrand,
-    MDBInputGroup,
     MDBBtn
 } from 'mdb-react-ui-kit';
 import { Link } from 'react-router-dom';
